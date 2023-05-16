@@ -1,0 +1,1 @@
+g++ -ggdb h1.cpp && ./a.out
