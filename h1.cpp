@@ -7,7 +7,7 @@ int main()
 cout << "password: ";
 string penis;
 cin >> penis;
-if (penis == "hotboygerick"){
+if (penis == "6969"){
     cout << endl << endl;
   
     cout << "type the first numbers: ";
@@ -41,7 +41,7 @@ if (penis == "hotboygerick"){
         cout << boob4 << boob1 / boob3;
     } 
     else {
-        for (int boob5 =1; boob5 >= 0; ++boob5){
+        for (int boob5 =1; boob5 >= 5; ++boob5){
             cout << "ERROR!!!";
         }
     }
