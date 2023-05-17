@@ -10,7 +10,7 @@ cin >> penis;
 if (penis == "6969"){
     cout << endl << endl;
   
-    cout << "type the first numbers: ";
+    cout << "tmype the first numbers: ";
     int boob1;
     cin >> boob1;
     cout << endl << endl;
