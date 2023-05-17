@@ -41,13 +41,13 @@ if (penis == "6969"){
         cout << boob4 << boob1 / boob3;
     } 
     else {
-        for (int boob5 =1; boob5 >= 5; ++boob5){
+        for (int boob5 =1; boob5 <= 10000; ++boob5){
             cout << "ERROR!!!";
         }
     }
 }
 else {
-    cout << "you didn't suck gerick";
+    cout << "you're stupid you idiot!";
 }
 cout << endl << endl;
 }
